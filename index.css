@@ -1,0 +1,16 @@
+body {
+    background-color:gainsboro;
+    margin: 20px;
+    border: 20px;
+    padding: auto;;
+}
+.header {
+    color: red;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid gray;
+
+}
+.tipz {
+    color: gray;
+}
